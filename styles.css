@@ -1,0 +1,229 @@
+.name   {
+    color: orange;
+    border-style: solid;
+    float: left;
+    border-color: black;
+    border-width: 4px;
+    padding: 16px;
+    
+    
+}
+
+.right-nav  {
+    float: right;
+    word-spacing: 20px;
+    position: absolute;
+    right: 80px;
+    top: 80px;
+
+}
+
+.right-nav a {
+    color: black;
+    font-size: 20pt;
+    text-decoration: none;
+    color: lightcoral;
+
+
+}
+.img1 {
+    position: absolute;
+    right: 45em;
+    top: 12em;
+    float: clear; 
+}
+
+.bio    {
+    position: absolute;
+    top: 5em;
+    left: 5em;
+    color: orange;
+    font-size: 60pt;
+}
+
+.location   {
+    color: black;
+    font-size: 25pt;
+    
+}
+
+.info  {
+    position: absolute;
+    top: 20em;
+    left: 7.5em;
+    font-size: 30pt;
+    text-align: right;
+    
+}
+
+.experience {
+    position: absolute;
+    top: 47em;
+    left: 12em;
+    font-size: 15pt;
+    font-color: grey;
+    color: gray;
+    line-height: 75%;
+    text-align: right;
+}
+
+.story {
+    position: absolute;
+    outline-style: solid;
+    top: 42em;
+    left: 28em;
+    right: 10em;
+    padding: 20px;
+    font-size: 15pt;
+    background-color: mintcream;
+}
+
+.acs    {
+    position: absolute;
+    
+    top: 50em;
+    left: 7em;
+    border-bottom-style: solid;
+    padding: 10px;
+    font-size: 150%;
+}
+
+.acs-oc {
+    position: absolute;
+    top: 62em;
+    font-size: 130%;
+    left: 5em;
+    right: 30em;
+    
+}
+
+.acs-sc {
+    position: absolute;
+    top: 50em;
+    left: 32em;
+    border-bottom-style: solid;
+    padding: 10px;
+    font-size: 150%;
+}
+
+.acs-sc-oc  {
+    position: absolute;
+    top: 62em;
+    left: 33em;
+    right: 3em;
+    font-size: 130%;
+    
+
+}
+
+.maestro    {
+    position: absolute;
+    top: 62em;
+    left: 23em;
+    border-bottom-style: solid;
+    padding: 10px;
+    font-size: 150%;
+}
+
+.maestro-gm {
+    position: absolute;
+    font-size: 130%;
+    top: 75em;
+    left: 18em;
+    right: 18em;
+    text-align: center;
+}
+
+.talk   {
+    position: absolute;
+    font-size: 60pt;
+    top: 27.5em;
+    left: 1em;
+}
+
+.name2   {
+    position: absolute;
+    top: 89em;
+    font-size: 20pt;
+    background-color: mintcream;
+    font-style: italic;
+    padding: 15px;
+    
+}
+
+.email  {
+    position: absolute;
+    top: 93em;
+    font-size: 20pt;
+    background-color: mintcream;
+    font-style: italic;
+    padding: 15px;
+
+}
+
+.message    {
+    position: absolute;
+    top: 97em;
+    font-size: 20pt;
+    background-color: mintcream;
+    font-style: italic;
+    
+    padding: 15px;
+    height: 10em;
+    
+    
+}
+
+.together   {
+    color: slategray;
+    position: absolute;
+    font-size: 130%;
+    top: 108em;
+    text-align: right;
+    left: 37.5em;
+}
+
+.button {
+    background-color: lightcoral;
+    color: white;
+    position: absolute;
+    font-size: 40px;
+    border-style: solid;
+    padding: 10px;
+    text-align: center;
+    top: 73em;
+    left: 21.75em;
+    border-style: none;
+    border-radius: 8px;
+}
+
+.bye    {
+    position: absolute;
+    font-size: 15pt;
+    top: 151em;
+    left: 26em;
+    color: cadetblue;
+    border-top-style: solid;
+    border-color: bisque;
+    padding: 10px;
+}    
+
+.container {
+    position: absolute;
+    top: 110em;
+}
+
+.img3   {
+    position: absolute;
+    height: 290px;
+    width: 400px;
+    top: 112em;
+    left: 27.5em;
+}
+
+.img4   {
+    position: absolute;
+    top: 110em;
+    height: 255;
+    width: 360px;
+    right: 2em;
